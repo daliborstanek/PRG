@@ -1,0 +1,6 @@
+mocnina = 1
+číslo = 2
+
+while mocnina <= 1024:
+    print(mocnina)
+    mocnina *= číslo
