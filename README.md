@@ -1,4 +1,4 @@
-**# Escape from Tarkov**
+# Escape from Tarkov
 
 ## **Žák**
 Dalibor Staněk
