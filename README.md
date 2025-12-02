@@ -1,5 +1,3 @@
-## **Název projektu**
-
 **Escape from Tarkov**
 
 ## **Žák**
