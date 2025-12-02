@@ -1,6 +1,6 @@
 ## **Název projektu**
 
-**Escape from Tarkov – Informační One-Page Prezentace**
+**Escape from Tarkov**
 
 ## **Žák**
 Dalibor Staněk
@@ -15,15 +15,15 @@ Noví hráči hledající základní orientaci ve hře, fanoušci hry Escape fro
 
 ## **Návrh obsahových sekcí**
 
-1. **O nás** – stručné představení Escape from Tarkov, jejího žánru a vývojářů.
+1. Stručné představení Escape from Tarkov, jejího žánru a vývojářů.
     
-2. **Plemeno Shiba-Inu** – informace o PMC frakcích USEC a BEAR + popis systému Scav.
+2. Informace o PMC frakcích USEC a BEAR + popis systému Scav.
     
-3. **Nabídka štěňat** – dynamicky načítaný přehled herních map s krátkými popisy, doporučeními a obtížností.
+3. Dynamicky načítaný přehled herních map s krátkými popisy, doporučeními a obtížností.
     
-4. **Podmínky prodeje** – výstroj, health systém, extrakce, inventář, lootování.
+4. Výstroj, health systém, extrakce, inventář, lootování.
     
-5. **Kontakt** – kontaktní formulář + odkazy na oficiální zdroje, wiki nebo komunitu.
+5. Kontaktní formulář + odkazy na oficiální zdroje, wiki nebo komunitu.
     
 ## **Návrh designu / wireframe**
 
